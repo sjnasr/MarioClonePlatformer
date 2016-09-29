@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MushroomManDeath.js">
+    <Files>
+      <File FileName="Assets\Scripts\CoinPickup.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MushroomMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CachingLoadExample.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pipe001Entry.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MushroomManDeath.js" Line="5" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
